@@ -30,7 +30,7 @@ const Header = () => {
       h-full"
       >
         {/* Logo */}
-        <Link to="/">
+        <Link to="/ecommerce-shop">
           <div>
             <img className="w-[40px]" src={Logo} alt="" />
           </div>

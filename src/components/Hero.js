@@ -23,7 +23,7 @@ const Hero = () => {
             <span className="font-semibold">WOMENS</span>
           </h1>
           <Link
-            to="/"
+            to="/ecommerce-shop"
             className="self-start uppercase font-semibold 
           border-b-2 border-primary"
           >
